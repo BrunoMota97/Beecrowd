@@ -1,0 +1,1 @@
+Mais de 700 exercícios resolvidos na plataforma de programação competitiva Beecrowd. Existem exercícios dos mais variados tipos, desde os fundamentais, passando pelos de estrtura de dados, strings e até matemática computacional.
