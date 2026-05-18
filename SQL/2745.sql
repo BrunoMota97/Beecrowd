@@ -1,0 +1,1 @@
+SELECT name, round(salary * .1, 2) FROM PEOPLE WHERE salary>3000;

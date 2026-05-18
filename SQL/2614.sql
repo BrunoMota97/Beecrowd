@@ -1,0 +1,3 @@
+SELECT customers.name,rentals.rentals_date FROM CUSTOMERS,RENTALS WHERE 
+rentals_date >='2016-09-01' AND rentals_date<='2016-09-30' AND
+customers.id = rentals.id_customers;

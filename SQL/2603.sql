@@ -1,0 +1,1 @@
+SELECT name,street FROM CUSTOMERS WHERE city='Porto Alegre';

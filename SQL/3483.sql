@@ -1,0 +1,1 @@
+SELECT city_name,population FROM CITIES WHERE id=2 OR id=11

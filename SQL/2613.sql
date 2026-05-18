@@ -1,0 +1,1 @@
+SELECT movies.id,movies.name FROM MOVIES,PRICES WHERE movies.id_prices=prices.id AND prices.value<2.00;
